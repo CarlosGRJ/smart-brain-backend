@@ -4,7 +4,7 @@
    "description": "Backend-face-recognition",
    "main": "index.js",
    "scripts": {
-      "start": "nodemon server.js"
+      "start": "node server.js"
    },
    "author": "Carlos Rojas",
    "license": "ISC",
